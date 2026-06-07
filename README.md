@@ -2,8 +2,8 @@
 
 > A world-class Customer Support Ticketing CRM built for the Datastraw Technologies internship assessment.
 
-**Live Demo:** `[YOUR_VERCEL_URL]`
-**GitHub:** `[YOUR_GITHUB_URL]`
+**Live Demo:** `[https://crm-datastraw.vercel.app]`
+**GitHub:** `[https://github.com/Vaidik-7781]`
 **Demo Video:** `[YOUR_VIDEO_URL]`
 
 ---
