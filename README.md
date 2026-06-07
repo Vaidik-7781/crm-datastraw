@@ -4,7 +4,7 @@
 
 **Live Demo:** `[https://crm-datastraw.vercel.app]`
 **GitHub:** `[https://github.com/Vaidik-7781/crm-datastraw]`
-**Demo Video:** `[YOUR_VIDEO_URL]`
+**Demo Video:** `[https://www.loom.com/share/dd2ce777361149b388637796ad4d5819]`
 
 ---
 
